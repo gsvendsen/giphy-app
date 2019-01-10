@@ -1,0 +1,15 @@
+{
+  "private":true,
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsvendsen/giphy-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsvendsen/giphy-app/issues"
+  },
+  "homepage": "https://github.com/gsvendsen/giphy-app#readme"
+}
